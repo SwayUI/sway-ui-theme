@@ -10,7 +10,7 @@ import semanticTokens from './foundations/semantic-tokens'
 import components from './components'
 
 const config = {
-    cssVarPrefix: 'mb',
+    cssVarPrefix: 'sway-ui',
     initialColorMode: 'system',
     useSystemColorMode: true,
 }

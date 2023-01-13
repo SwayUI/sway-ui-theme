@@ -1,6 +1,6 @@
 {
   "name": "@sway-ui/sway-ui-theme",
-  "version": "1.0.4",
+  "version": "1.0.6",
   "description": "Official SwayUI Theme for Chakra UI",
   "repository": "https://github.com/SwayUI/sway-ui-theme.git",
   "author": "Clément de Louvencourt <clement@meilleursbiens.com>",
